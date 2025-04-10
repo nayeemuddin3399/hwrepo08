@@ -1,0 +1,28 @@
+.header{
+	height: 100px;
+	background-color: darkred;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.blog{
+	height: 600px;
+	width: 72%;
+	background-color: greenyellow;
+	float: left;
+
+}
+
+.contact{
+	height: 600px;
+	width: 27%;
+	background-color: blueviolet;
+	float: right;
+}
+
+.footer{
+	height: 100px;
+	background-color: blanchedalmond;
+}
